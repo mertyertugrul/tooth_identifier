@@ -1,0 +1,21 @@
+,text,verb1,verb2,verb3,verb4,verb5,verb6,time_exp1,time_exp2,time_exp3,time_exp4,time_exp5,tense
+0,My breakfast will have been ready.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,,,,,,0
+1,We will have been studying for 3 days by the time it ends,"verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle","verb, 3rd person singular present",,for,days,by,time,,0
+2,She will have been working for 2 hours when we get there,"verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle","verb, non-3rd person singular present",,for,when,,,,0
+3,I worked yesterday.,"verb, past tense",,,,,,yesterday,,,,,7
+4,She liked the movie.,"verb, past tense",,,,,,,,,,,7
+5,He saw me yesterday.,"verb, past tense",,,,,,yesterday,,,,,7
+6,We met last week.,"verb, past tense",,,,,,last,week,,,,7
+7,We will got to disnay tomorrow.,"verb, modal auxiliary","verb, base form","verb, base form",,,,tomorrow,,,,,3
+8,We will do it tomorrow.,"verb, modal auxiliary","verb, base form",,,,,tomorrow,,,,,3
+9,We will go with you.,"verb, modal auxiliary","verb, base form",,,,,,,,,,3
+10,I am doing my homework.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,,,,,,10
+11,I am doing my homework right now.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,right,now,,,,10
+12,It is raining.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,,,,,,10
+13,I enjoy dancing.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,,,,,,11
+14,I like watching movies.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,,,,,,11
+15,I am a man.,"verb, non-3rd person singular present",,,,,,,,,,,11
+16,I work everyday.,"verb, non-3rd person singular present",,,,,,,,,,,11
+17,I work every day.,"verb, non-3rd person singular present",,,,,,every,day,,,,11
+18,I love you.,"verb, non-3rd person singular present",,,,,,,,,,,11
+19,I live in London,"verb, non-3rd person singular present",,,,,,,,,,,11

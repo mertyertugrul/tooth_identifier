@@ -1,0 +1,606 @@
+,text,verb1,verb2,verb3,verb4,verb5,verb6,time_exp1,time_exp2,time_exp3,time_exp4,time_exp5,tense
+0,I drive home every day.,"verb, non-3rd person singular present",,,,,,every,day,,,,present simple
+1,I drove home yesterday.,"verb, past tense",,,,,,yesterday,,,,,past simple
+2,I will drive home later.,"verb, modal auxiliary","verb, base form",,,,,,,,,,future simple
+3,I was driving when you called.,"verb, past tense","verb, gerund or present participle","verb, past tense",,,,when,,,,,past progressive
+4,I am driving now.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,now,,,,,present progressive
+5,I will be driving when you call.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle","verb, non-3rd person singular present",,,when,,,,,future progressive
+6,I have driven that road.,"verb, non-3rd person singular present","verb, past participle",,,,,,,,,,present perfect
+7,I had already driven that road in the past.,"verb, past tense","verb, past participle",,,,,already,past,,,,past perfect
+8,I will have driven 200 miles by tomorrow.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,tomorrow,,,,future perfect
+9,I have been driving since this morning.,"verb, non-3rd person singular present","verb, past participle","verb, gerund or present participle",,,,since,this,,,,present perfect progressive
+10,I had been driving for three hours before I stopped to get gas.,"verb, past tense","verb, past participle","verb, gerund or present participle","verb, past tense","verb, base form",,for,before,,,,past perfect progressive
+11,I will have been driving for five hours by the time I arrive.,"verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle","verb, non-3rd person singular present",,for,by,time,,,future perfect progressive
+12,Did you get enough sleep last night?,"verb, past tense","verb, base form",,,,,last,,,,,past simple
+13,Do you shower every day?,"verb, non-3rd person singular present","verb, base form",,,,,every,day,,,,present simple
+14,Are you going to study tonight?,"verb, non-3rd person singular present","verb, gerund or present participle","verb, base form",,,,,,,,,future simple
+15,What were you doing when I called you last night?,"verb, past tense","verb, gerund or present participle","verb, past tense",,,,when,last,,,,past progressive
+16,What are you doing right now?,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,right,now,,,,present progressive
+17,What will you be doing at midnight on New Year’s Eve?,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,,,,,,future progressive
+18,Had you ever tried skiing before today?,"verb, past tense","verb, past participle",,,,,ever,before,today,,,past perfect
+19,Have you ever broken the law?,"verb, non-3rd person singular present","verb, past participle",,,,,ever,,,,,present perfect
+20,Will you have gotten married by the time you turn 30?,"verb, modal auxiliary","verb, base form","verb, past participle","verb, past participle","verb, non-3rd person singular present",,by,time,,,,future perfect
+21,How long had you been smoking before you quit?,"verb, past tense","verb, past participle","verb, gerund or present participle","verb, non-3rd person singular present",,,before,,,,,past perfect progressive
+22,How long have you been waiting for the bus?,"verb, non-3rd person singular present","verb, past participle","verb, gerund or present participle",,,,for,,,,,present perfect progressive
+23,How long will you have been working before you retire?,"verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle","verb, non-3rd person singular present",,before,,,,,future perfect progressive
+24,It snowed yesterday.,"verb, past tense",,,,,,yesterday,,,,,past simple
+25,It snows every winter.,"verb, 3rd person singular present",,,,,,every,,,,,present simple
+26,It is going to snow tonight.,"verb, 3rd person singular present","verb, gerund or present participle","verb, base form",,,,,,,,,future simple
+27,It will snow this winter.,"verb, modal auxiliary","verb, base form",,,,,this,,,,,future simple
+28,It was snowing when I drove to work.,"verb, past tense","verb, gerund or present participle","verb, past tense",,,,when,,,,,present progressive
+29,It is snowing.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,,,,,,present progressive
+30,It will be snowing by the time I get home.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle","verb, non-3rd person singular present",,,by,time,,,,future progressive
+31,It had already snowed before I left.,"verb, past tense","verb, past participle","verb, past tense",,,,already,before,,,,past perfect
+32,I have driven in snow many times.,"verb, non-3rd person singular present","verb, past participle",,,,,times,,,,,present perfect
+33,It will have snowed 6 inches by the end of the day.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,day,,,,future perfect
+34,It had been snowing for two days before it stopped.,"verb, past tense","verb, past participle","verb, gerund or present participle","verb, past tense",,,for,days,before,,,past perfect progressive
+35,It has been snowing all month long.,"verb, 3rd person singular present","verb, past participle","verb, gerund or present participle",,,,month,,,,,present perfect progressive
+36,It will have been snowing for three days by the time it stops.,"verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle","verb, 3rd person singular present",,for,days,by,time,,future perfect progressive
+37,I left home three years ago.,"verb, past tense",,,,,,ago,,,,,past simple
+38,Most kids like milk.,,,,,,,,,,,,present simple
+39,I do not like milk unless it’s chocolate.,"verb, non-3rd person singular present","verb, base form",,,,,,,,,,present simple
+40,Do you like milk?,"verb, non-3rd person singular present",,,,,,,,,,,present simple
+41,When do we board the train for Paris?,"verb, non-3rd person singular present","verb, base form",,,,,for,,,,,present simple
+42,"You like scuba diving, don’t you?","verb, non-3rd person singular present","verb, non-3rd person singular present",,,,,,,,,,present simple
+43,You are learning to use perfect English.,"verb, non-3rd person singular present","verb, gerund or present participle","verb, base form",,,,,,,,,present progressive
+44,You are not sleeping now.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,now,,,,,present progressive
+45,Are you eating?,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,,,,,,present progressive
+46,What are you watching?,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,,,,,,present progressive
+47,"You aren’t eating liverwurst, are you?","verb, non-3rd person singular present","verb, gerund or present participle","verb, non-3rd person singular present",,,,,,,,,present progressive
+48,I visited my grandmother yesterday.,"verb, past tense",,,,,,yesterday,,,,,past simple
+49,We didn’t watch the movie on Saturday.,"verb, past tense","verb, base form",,,,,,,,,,past simple
+50,Did you have spaghetti for dinner last night?,"verb, past tense","verb, base form",,,,,for,last,,,,past simple
+51,Why didn’t you wash the car yesterday?,"verb, past tense","verb, non-3rd person singular present",,,,,yesterday,,,,,past simple
+52,"You went to Paris last year, didn’t you?","verb, past tense","verb, past tense",,,,,last,year,,,,past simple
+53,We were watching TV when the power went out.,"verb, past tense","verb, gerund or present participle","verb, past tense",,,,when,,,,,past progressive
+54,You were not listening to the teacher’s instructions yesterday.,"verb, past tense","verb, gerund or present participle",,,,,yesterday,,,,,past progressive
+55,Were you skateboarding when you broke your leg?,"verb, past tense","verb, gerund or present participle","verb, past tense",,,,when,,,,,past progressive
+56,What were you doing when you heard the news?,"verb, past tense","verb, gerund or present participle","verb, past tense",,,,when,,,,,past progressive
+57,We are going to the movies tonight.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,,,,,,future simple
+58,You will help your grandmother later.,"verb, modal auxiliary","verb, base form",,,,,,,,,,future simple
+59,They have been to Paris.,"verb, non-3rd person singular present","verb, past participle",,,,,,,,,,present perfect
+60,You haven’t gone overseas.,"verb, non-3rd person singular present","verb, past participle",,,,,,,,,,present perfect
+61,Have you been to London?,"verb, non-3rd person singular present","verb, past participle",,,,,,,,,,present perfect
+62,Why are we here?,"verb, non-3rd person singular present",,,,,,,,,,,present perfect
+63,"You haven’t been to Zurich, have you?","verb, non-3rd person singular present","verb, past participle","verb, non-3rd person singular present",,,,,,,,,present perfect
+64,They have been swimming for more than an hour.,"verb, non-3rd person singular present","verb, past participle","verb, gerund or present participle",,,,for,,,,,present perfect progressive
+65,You haven’t waited thirty minutes yet.,"verb, non-3rd person singular present","verb, past tense",,,,,yet,,,,,present perfect progressive
+66,Have you been waiting long?,"verb, non-3rd person singular present","verb, past participle","verb, gerund or present participle",,,,,,,,,present perfect progressive
+67,What time did you begin waiting?,"verb, past tense","verb, base form","verb, gerund or present participle",,,,time,,,,,present perfect progressive
+68,"You haven’t been waiting long, have you?","verb, non-3rd person singular present","verb, past participle","verb, gerund or present participle","verb, non-3rd person singular present",,,,,,,,present perfect progressive
+69,He had studied French in Paris.,"verb, past tense","verb, past participle",,,,,,,,,,past perfect
+70,She hadn’t studied French before last semester.,"verb, past tense","verb, past participle",,,,,before,last,,,,past perfect
+71,We had not been waiting for more than thirty minutes when her plane landed.,"verb, past tense","verb, past participle","verb, gerund or present participle","verb, past tense",,,for,when,,,,past perfect progressive
+72,We had been waiting for more than three hours when the train finally arrived.,"verb, past tense","verb, past participle","verb, gerund or present participle","verb, past tense",,,for,when,,,,past perfect progressive
+73,Had you been waiting for longer than three hours?,"verb, past tense","verb, past participle","verb, gerund or present participle",,,,for,,,,,past perfect progressive
+74,Why had you been waiting for the last two hours?,"verb, past tense","verb, past participle","verb, gerund or present participle",,,,for,last,,,,past perfect progressive
+75,We will be waiting for him when his plan arrives tonight.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle","verb, 3rd person singular present",,,for,when,,,,future progressive
+76,She will see you tomorrow.,"verb, modal auxiliary","verb, base form",,,,,tomorrow,,,,,future simple
+77,I'm watching you.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,,,,,,present progressive
+78,Who said that?,"verb, past tense",,,,,,,,,,,past simple
+79,I am starting to work.,"verb, non-3rd person singular present","verb, gerund or present participle","verb, base form",,,,,,,,,present progressive
+80,I have started,"verb, non-3rd person singular present","verb, past participle",,,,,,,,,,present perfect
+81,I was working in the garage.,"verb, past tense","verb, gerund or present participle",,,,,,,,,,past progressive
+82,I had been working all day.,"verb, past tense","verb, past participle","verb, gerund or present participle",,,,day,,,,,past perfect progressive
+83,I have worked with children before.,"verb, non-3rd person singular present","verb, past participle",,,,,before,,,,,present perfect
+84,After I had worked with fake for a few weeks.,"verb, past tense","verb, past participle",,,,,for,few,,,,past perfect
+85,I will have worked 10 hours by suppertime.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,,,,,future perfect
+86,I've been working all day.,"verb, base form","verb, past participle","verb, gerund or present participle",,,,day,,,,,present perfect progressive
+87,They are walking home.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,,,,,,present progressive
+88,Peter lived in China in 1965.,"verb, past tense",,,,,,,,,,,past simple
+89,I was reading when she arrived home.,"verb, past tense","verb, gerund or present participle","verb, past tense",,,,when,,,,,past progressive
+90,I have lived here since 1987.,"verb, non-3rd person singular present","verb, past participle",,,,,since,,,,,present perfect
+91,We had been to see her several times before,"verb, past tense","verb, past participle","verb, base form",,,,times,before,,,,past perfect
+92,He had been watching her for some time.,"verb, past tense","verb, past participle","verb, gerund or present participle",,,,for,time,,,,past perfect progressive
+93,We will have arrived in the States.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,,,,,,future perfect
+94,"By the end of your course, you will have been studying for five years.","verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle",,,for,,,,,future perfect progressive
+95,They will go to Italy next week.,"verb, modal auxiliary","verb, base form",,,,,next,week,,,,future simple
+96,I will be travelling by train.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,by,,,,,future progressive
+97,I read nearly every day.,"verb, past tense",,,,,,every,day,,,,present simple
+98,"Last night, I read an entire novel.","verb, past tense",,,,,,,,,,,past simple
+99,I will read as much as I can this year.,"verb, modal auxiliary","verb, base form","verb, modal auxiliary",,,,as,as,this,year,,future simple
+100,I am reading Shakespeare at the moment.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,moment,,,,,present progressive
+101,I was reading Edgar Allan Poe last night.,"verb, past tense","verb, gerund or present participle",,,,,last,,,,,past progressive
+102,I will be reading Nathaniel Hawthorne soon.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,soon,,,,,future progressive
+103,I have read so many books I can’t keep count.,"verb, non-3rd person singular present","verb, past participle","verb, base form",,,,so,,,,,present perfect
+104,I had read at least 100 books at the end of this year.,"verb, past tense","verb, past participle",,,,,this,year,,,,past perfect
+105,I will have read at least 500 books by the end of the year.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,year,,,,future perfect
+106,I have been reading since I was four years old.,"verb, non-3rd person singular present","verb, past participle","verb, gerund or present participle","verb, past tense",,,since,,,,,present perfect progressive
+107,I had been reading for at least a year.,"verb, past tense","verb, past participle","verb, gerund or present participle",,,,for,year,,,,past perfect progressive
+108,Bill was studying for a test Friday.,"verb, past tense","verb, gerund or present participle",,,,,for,,,,,past progressive
+109,Mom and I are hurrying.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,,,,,,present progressive
+110,I will be leaving at 10.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,,,,,,future progressive
+111,Joe had hoped to go to Harvard.,"verb, past tense","verb, past participle","verb, base form",,,,,,,,,past perfect
+112,He went to MIT instead.,"verb, past tense",,,,,,,,,,,past simple
+113,Ellen has always worked hard.,"verb, 3rd person singular present","verb, past participle",,,,,always,,,,,present perfect
+114,She will have studied medicine for over ten years.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,for,,,,,future perfect
+115,Yesterday Mark got up early.,"verb, past tense",,,,,,,,,,,past simple
+116,He ate breakfast.,"verb, past tense",,,,,,,,,,,past simple
+117,He took the bus to work.,"verb, past tense","verb, base form",,,,,,,,,,past simple
+118,He worked all day.,"verb, past tense",,,,,,day,,,,,past simple
+119,He came home.,"verb, past tense",,,,,,,,,,,past simple
+120,He ate dinner.,"verb, past tense",,,,,,,,,,,past simple
+121,He listened to some music.,"verb, past tense",,,,,,,,,,,past simple
+122,He went to bed.,"verb, past tense",,,,,,,,,,,past simple
+123,Mark was still thinking about the day's events.,"verb, past tense","verb, gerund or present participle",,,,,day,,,,,past progressive
+124,this morning he was getting ready for bed.,"verb, past tense","verb, gerund or present participle",,,,,this,for,,,,past progressive
+125,He used to go to bed late.,"verb, past tense","verb, base form",,,,,,,,,,past simple
+126,Beth used to call every evening before supper.,"verb, past tense","verb, base form",,,,,every,before,,,,past simple
+127,Mark had not been worrying.,"verb, past tense","verb, past participle","verb, gerund or present participle",,,,,,,,,past perfect
+128,he had been too tired to even notice.,"verb, past tense","verb, past participle","verb, base form",,,,,,,,,past perfect
+129,she had not called.,"verb, past tense","verb, past participle",,,,,,,,,,past perfect
+130,You should have just sent a text message.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,just,,,,,past perfect
+131,I would have called you.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,,,,,,past perfect
+132,I had started to worry.,"verb, past tense","verb, past participle","verb, base form",,,,,,,,,past perfect
+133,I should have gone with you.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,,,,,,past perfect
+134,I should have studied more for my test.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,for,,,,,past perfect
+135,I should have read the directions.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,,,,,,past perfect
+136,I should have eaten breakfast this morning.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,this,,,,,past perfect
+137,I should have listened to your advice.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,,,,,,past perfect
+138,I should have married her.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,,,,,,past perfect
+139,I shall leave tomorrow.,"verb, modal auxiliary","verb, base form",,,,,tomorrow,,,,,future simple
+140,I shall finish the job next week.,"verb, modal auxiliary","verb, base form",,,,,next,week,,,,future simple
+141,I shall see it tomorrow.,"verb, modal auxiliary","verb, base form",,,,,tomorrow,,,,,future simple
+142,I shall go outside.,"verb, modal auxiliary","verb, base form",,,,,,,,,,future simple
+143,I shall pay for this later.,"verb, modal auxiliary","verb, base form",,,,,for,this,,,,future simple
+144,She could have gone to any college.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,,,,,,past perfect
+145,I would have gone to the party.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,,,,,,past perfect
+146,He should have told the truth.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,,,,,,past perfect
+147,I could have gone directly to college.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,,,,,,past perfect
+148,I would have loaned you the money.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,,,,,,past perfect
+149,I would have made a salad.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,,,,,,past perfect
+150,I would never know real love.,"verb, modal auxiliary","verb, base form",,,,,never,,,,,past perfect
+151,My husband is singing.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,,,,,,present progressive
+152,I'm typing.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,,,,,,present progressive
+153,Our friends are eating dinner at home tonight.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,,,,,,present progressive
+154,I'm studying English..,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,,,,,,present progressive
+155,Our daughter is coming to visit us next Tuesday.,"verb, 3rd person singular present","verb, gerund or present participle","verb, base form",,,,next,,,,,future simple
+156,Her bus leaves at 6:00 Tuesday morning.,"verb, 3rd person singular present",,,,,,,,,,,future simple
+157,I’m turning in my History assignment tomorrow morning.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,tomorrow,,,,,future simple
+158,"John will call her tomorrow, won’t he?","verb, modal auxiliary","verb, base form",,,,,tomorrow,,,,,future simple
+159,"All those girls will be sitting quietly, won’t they?","verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,,,,,,future simple
+160,"You’re coming over tonight, aren’t you?","verb, gerund or present participle","verb, non-3rd person singular present",,,,,,,,,,future simple
+161,"That bee is going to sting me, isn’t it?","verb, 3rd person singular present","verb, gerund or present participle","verb, gerund or present participle","verb, 3rd person singular present",,,,,,,,future simple
+162,"Carey won’t report me, will she?","verb, base form","verb, modal auxiliary",,,,,,,,,,future simple
+163,"The kids aren’t going to play soccer tomorrow, are they?","verb, non-3rd person singular present","verb, gerund or present participle","verb, base form","verb, non-3rd person singular present",,,tomorrow,,,,,future simple
+164,"You’re not working tomorrow, are you?","verb, non-3rd person singular present","verb, gerund or present participle","verb, non-3rd person singular present",,,,tomorrow,,,,,future simple
+165,She’ll write the e-mail after lunch.,"verb, non-3rd person singular present",,,,,,,,,,,future simple
+166,Don’t lift that. You’ll hurt yourself.,"verb, non-3rd person singular present","verb, base form","verb, non-3rd person singular present",,,,,,,,,future simple
+167,You dropped your purse. I’ll get it.,"verb, past tense","verb, non-3rd person singular present",,,,,,,,,,future simple
+168,I’ll see you tomorrow.,"verb, non-3rd person singular present",,,,,,tomorrow,,,,,future simple
+169,You’ll get the answer by post.,"verb, non-3rd person singular present",,,,,,by,,,,,future simple
+170,Dan’s going to take the order over to the customer.,"verb, gerund or present participle","verb, base form",,,,,,,,,,future simple
+171,The girls are going to sing ‘Amazing Grace’ now.,"verb, non-3rd person singular present","verb, gerund or present participle","verb, base form",,,,now,,,,,future simple
+172,I’ll drive you to your lesson at 4 pm.,"verb, non-3rd person singular present",,,,,,,,,,,future simple
+173,He is going to clean up his room tonight.,"verb, 3rd person singular present","verb, gerund or present participle","verb, base form",,,,,,,,,future simple
+174,Don’t phone me before 12:00. I will be meeting with a client.,"verb, non-3rd person singular present","verb, base form","verb, modal auxiliary","verb, base form","verb, gerund or present participle",,before,,,,,future simple
+175,"This time next year, we will be living in our new home.","verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,time,next,year,,,future simple
+176,He will be receiving his M.A. degree at the ceremony next week.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,next,week,,,,future simple
+177,Her bus leaves at 6:00 Tuesday morning.,"verb, 3rd person singular present",,,,,,,,,,,future simple
+178,The sun sets in the west.,"verb, 3rd person singular present",,,,,,,,,,,present simple
+179,We produce lasers for cosmetic surgery.,"verb, non-3rd person singular present",,,,,,for,,,,,present simple
+180,They move into their new home next week.,"verb, non-3rd person singular present",,,,,,next,week,,,,present simple
+181,"So, I go to Mr. D and say “I deserve a better mark in this class”.","verb, non-3rd person singular present","verb, base form","verb, non-3rd person singular present",,,,this,,,,,present simple
+182,Jones stops in mid-court and passes the ball to Schuster.,"verb, 3rd person singular present","verb, 3rd person singular present",,,,,,,,,,present simple
+183,I always study hard for exams.,"verb, non-3rd person singular present",,,,,,always,for,,,,present simple
+184,Do you usually speak to him like that?,"verb, non-3rd person singular present","verb, base form",,,,,usually,,,,,present simple
+185,Ben goes to football practice every Tuesday.,"verb, 3rd person singular present",,,,,,every,,,,,present simple
+186,"In general, I believe that all people can live in peace.","verb, non-3rd person singular present","verb, modal auxiliary","verb, base form",,,,general,,,,,present simple
+187,you go to the supermarket every week?,"verb, non-3rd person singular present",,,,,,every,week,,,,present simple
+188,Generally I go to this pub.,"verb, non-3rd person singular present",,,,,,Generally,this,,,,present simple
+189,Generally speaking he goes to work every weekday.,"verb, gerund or present participle","verb, 3rd person singular present",,,,,Generally,every,,,,present simple
+190,In general I brush my teeth before I go to bed.,"verb, non-3rd person singular present","verb, non-3rd person singular present",,,,,general,before,,,,present simple
+191,In general this is how we do it.,"verb, 3rd person singular present","verb, non-3rd person singular present",,,,,general,this,,,,present simple
+192,Generally she sings like this.,"verb, 3rd person singular present",,,,,,Generally,this,,,,present simple
+193,Generally I do not afraid dogs.,"verb, non-3rd person singular present",,,,,,Generally,,,,,present simple
+194,Generally he do not cry.,"verb, non-3rd person singular present","verb, base form",,,,,Generally,,,,,present simple
+195,In generally he stans by her.,"verb, 3rd person singular present",,,,,,generally,by,,,,present simple
+196,My love to you is general.,"verb, 3rd person singular present",,,,,,general,,,,,present simple
+197,I don’t like the food they serve at that restaurant.,"verb, non-3rd person singular present","verb, non-3rd person singular present",,,,,,,,,,present simple
+198,Jim doesn’t work on Fridays.,"verb, 3rd person singular present","verb, base form",,,,,,,,,,present simple
+199,My friends don’t usually leave so early.,"verb, non-3rd person singular present","verb, base form",,,,,usually,so,,,,present simple
+200,I do not want to go with you!,"verb, non-3rd person singular present","verb, base form","verb, base form",,,,,,,,,present simple
+201,He always does good work.,"verb, 3rd person singular present",,,,,,always,,,,,present simple
+202,Do you like me?,"verb, non-3rd person singular present","verb, base form",,,,,,,,,,present simple
+203,What did they bring you?,"verb, past tense","verb, base form",,,,,,,,,,present simple
+204,Do you surf the Internet every day?,"verb, non-3rd person singular present","verb, base form",,,,,every,day,,,,present simple
+205,Every day I go to work.,"verb, non-3rd person singular present",,,,,,Every,day,,,,present simple
+206,Every day I eat lunch at noon.,"verb, non-3rd person singular present",,,,,,Every,day,,,,present simple
+207,Every day I a chapter from my book.,,,,,,,Every,day,,,,present simple
+208,Every day I ride my bike to work.,"verb, non-3rd person singular present",,,,,,Every,day,,,,present simple
+209,Every night I go to bed early.,"verb, non-3rd person singular present",,,,,,Every,,,,,present simple
+210,Every night I brush my teeth before I go to bed.,"verb, non-3rd person singular present","verb, non-3rd person singular present",,,,,Every,before,,,,present simple
+211,Every night me and my dauther sing a song.,"verb, non-3rd person singular present",,,,,,Every,,,,,present simple
+212,Every monday I work at the shelter.,"verb, non-3rd person singular present",,,,,,Every,,,,,present simple
+213,Does Jonathan always turn off the lights?.,"verb, 3rd person singular present","verb, base form",,,,,always,,,,,present simple
+214,Don’t you ever clean your room?,"verb, base form","verb, non-3rd person singular present",,,,,ever,,,,,present simple
+215,When do you want to meet me?,"verb, non-3rd person singular present","verb, base form","verb, base form",,,,When,,,,,present simple
+216,Why does Beth always complain so much?,"verb, 3rd person singular present","verb, base form",,,,,always,so,,,,present simple
+217,How much does the ticket cost?,"verb, 3rd person singular present",,,,,,,,,,,present simple
+218,Why don’t you ever go on vacation?,"verb, non-3rd person singular present","verb, non-3rd person singular present",,,,,ever,,,,,present simple
+219,"John likes me, doesn’t he?","verb, 3rd person singular present","verb, 3rd person singular present",,,,,,,,,,present simple
+220,All those girls speak French,"verb, non-3rd person singular present",,,,,,,,,,,present simple
+221,We are discussing the project at the moment.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,moment,,,,,present progressive
+222,Jim is leaving for Brussels this evening.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,for,this,evening,,,present progressive
+223,Her husband is always complaining about his health.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,always,,,,,present progressive
+224,You are not going out tonight!,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,,,,,,present progressive
+225,I’m not listening to you.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,,,,,,present progressive
+226,Roger isn’t eating with us tonight.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,,,,,,present progressive
+227,The Smiths aren’t going to France this year. They’re going to Thailand.,"verb, non-3rd person singular present","verb, gerund or present participle","verb, non-3rd person singular present","verb, gerund or present participle",,,this,year,,,,present progressive
+228,He is not coming with me dressed like that!,"verb, 3rd person singular present","verb, gerund or present participle",,,,,,,,,,present progressive
+229,Are you participating in the competition next week?,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,next,week,,,,present progressive
+230,Which route are you taking to the conference this week?,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,this,week,,,,present progressive
+231,Latika‘s not working at IBM anymore.,"verb, gerund or present participle",,,,,,anymore,,,,,present progressive
+232,Joyce isn’t playing in today’s tournament.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,today,,,,,present progressive
+233,We are eating with my parents this evening.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,this,evening,,,,present progressive
+234,She is going home this evening.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,this,evening,,,,present progressive
+235,She is going home this afternoon.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,this,afternoon,,,,present progressive
+236,We are going to see the lions this week.,"verb, non-3rd person singular present","verb, gerund or present participle","verb, base form",,,,this,week,,,,present progressive
+237,There is a huge festival in town this week.,"verb, 3rd person singular present",,,,,,this,week,,,,present progressive
+238,We will go to a picnic this weekend.,"verb, modal auxiliary","verb, base form",,,,,this,weekend,,,,present progressive
+239,I am studying to become a lawyer this year.,"verb, non-3rd person singular present","verb, gerund or present participle","verb, base form",,,,this,year,,,,present progressive
+240,I am reading a book right now.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,right,now,,,,present progressive
+241,We are learning English now.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,now,,,,,present progressive
+242,We're watching TV right now.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,right,now,,,,present progressive
+243,At present my father is working abroad.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,present,,,,,present progressive
+244,He is presently studying in Istanbul.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,presently,,,,,present progressive
+245,We're using my old computer for the time being.,"verb, non-3rd person singular present","verb, gerund or present participle","verb, gerund or present participle",,,,for,time,being,,,present progressive
+246,I am reading a book for the time being.,"verb, non-3rd person singular present","verb, gerund or present participle","verb, gerund or present participle",,,,for,time,being,,,present progressive
+247,She is working at bank for the time being.,"verb, 3rd person singular present","verb, gerund or present participle","verb, gerund or present participle",,,,for,time,being,,,present progressive
+248,He is okay for the time being.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,for,time,being,,,present progressive
+249,We are on our way for the time being.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,for,time,being,,,present progressive
+250,The Director is currently having talks in the USA,"verb, 3rd person singular present","verb, gerund or present participle",,,,,currently,,,,,present progressive
+251,We are currently on this project.,"verb, non-3rd person singular present",,,,,,currently,this,,,,present progressive
+252,We are currently watching a movie.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,currently,,,,,present progressive
+253,We are currently eating a pizza.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,currently,,,,,present progressive
+254,We are currently running a restauran.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,currently,,,,,present progressive
+255,She's not waiting here at the moment.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,moment,,,,,present progressive
+256,She is not waiting here at the moment.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,moment,,,,,present progressive
+257,Charles is taking three courses this year.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,this,year,,,,present progressive
+258,Charles is taking three courses this term.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,this,,,,,present progressive
+259,Car prices are getting higher nowadays.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,nowadays,,,,,present progressive
+260,Car prices are getting higher these days.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,these,days,,,,present progressive
+261,I am not going to the party tonight.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,tonight,,,,,future simple
+262,Is he visiting his parents next weekend?,"verb, 3rd person singular present","verb, gerund or present participle",,,,,next,weekend,,,,future simple
+263,They are flying to Paris next week.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,next,week,,,,future simple
+264,Tom is staring a new job on Friday.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,,,,,,future simple
+265,My dad is retiring in 2032.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,,,,,,future simple
+266,My dad is retiring in June.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,,,,,,future simple
+267,She is always coming to class late.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,always,,,,,present progressive
+268,He is always eating something.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,always,,,,,present progressive
+269,He is constantly talking.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,constantly,,,,,present progressive
+270,He is constantly working.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,constantly,,,,,present progressive
+271,He is constantly looking for something.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,constantly,for,,,,present progressive
+272,She is constantly watching TV.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,constantly,,,,,present progressive
+273,She is constantly doing the dishes.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,constantly,,,,,present progressive
+274,they are always complaining.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,always,,,,,present progressive
+275,He is continuously changing his mind.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,continuously,,,,,present progressive
+276,He is continuously teasing her.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,continuously,,,,,present progressive
+277,He is continuously poking it.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,continuously,,,,,present progressive
+278,He is continuously speaking out loud.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,continuously,,,,,present progressive
+279,she is always having arguments with other students.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,always,,,,,present progressive
+280,I will see you next Sunday.,"verb, modal auxiliary","verb, base form",,,,,next,,,,,future simple
+281,We had a meeting last Thursday.,"verb, past tense",,,,,,last,,,,,past simple
+282,Jennifer has her programming course on Wednesday.,"verb, 3rd person singular present",,,,,,,,,,,future simple
+283,We have our class on Tuesdays and Thursdays.,"verb, non-3rd person singular present",,,,,,,,,,,present simple
+284,I used to play tennis on Saturdays.,"verb, past tense","verb, base form",,,,,,,,,,present simple
+285,I play tennis at weekends.,"verb, non-3rd person singular present",,,,,,weekends,,,,,present simple
+286,She visits her mother on the weekend.,"verb, 3rd person singular present",,,,,,weekend,,,,,present simple
+287,We're going to the beach on the weekend.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,weekend,,,,,present simple
+288,We're going to the beach on the next weekend.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,next,weekend,,,,present simple
+289,They visited Chicago on the weekend.,"verb, past tense",,,,,,weekend,,,,,past simple
+290,They do the cleaning in the morning.,"verb, non-3rd person singular present",,,,,,morning,,,,,present simple
+291,He goes to bed late at night.,"verb, 3rd person singular present",,,,,,night,,,,,present simple
+292,We will do the homework in the evening.,"verb, modal auxiliary","verb, base form",,,,,evening,,,,,future simple
+293,She had a drink in the evening.,"verb, past tense",,,,,,evening,,,,,past simple
+294,She travels to Las Vegas every year.,"verb, 3rd person singular present",,,,,,every,year,,,,present simple
+295,Jack tries to exercise every day.,"verb, 3rd person singular present","verb, base form",,,,,every,day,,,,present simple
+296,They sometimes play golf.,"verb, non-3rd person singular present",,,,,,sometimes,,,,,present simple
+297,She rarely smokes.,"verb, 3rd person singular present",,,,,,rarely,,,,,present simple
+298,Tom is watching TV now.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,now,,,,,present progressive
+299,I am working on the Smith project today.,"verb, non-3rd person singular present","verb, gerund or present participle",,,,,today,,,,,present progressive
+300,Jane is doing her homework at the moment.,"verb, 3rd person singular present","verb, gerund or present participle",,,,,moment,,,,,present progressive
+301,They went on holiday last month.,"verb, past tense",,,,,,last,month,,,,past simple
+302,I visited my best friend yesterday.,"verb, past tense",,,,,,yesterday,,,,,past simple
+303,They had math class the day before yesterday.,"verb, past tense",,,,,,day,before,yesterday,,,past simple
+304,We flew to Cleveland three weeks ago.,"verb, past tense",,,,,,ago,,,,,past simple
+305,The class started twenty minutes ago. ,"verb, past tense",,,,,,ago,,,,,past simple
+306,She graduated in 1976.,"verb, past tense",,,,,,,,,,,past simple
+307,We are going to visit our friends in Chicago next week.,"verb, non-3rd person singular present","verb, gerund or present participle","verb, base form",,,,next,week,,,,future simple
+308,I will have some time off next month. ,"verb, modal auxiliary","verb, base form",,,,,time,next,month,,,future simple
+309,He will be at the meeting tomorrow.,"verb, modal auxiliary","verb, base form",,,,,tomorrow,,,,,future simple
+310,We will be swimming in a crystal blue sea in two weeks time.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,weeks,time,,,,future simple
+311,I will have finished the report by April 15.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,,,,,future simple
+312,We will be swimming in a crystal blue sea in two weeks time.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,weeks,time,,,,future progressive
+313,We will be walking in streets of London in two weeks time.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,weeks,time,,,,future progressive
+314,We will be walking in streets of London in two weeks.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,weeks,,,,,future progressive
+315,I will have finished the report by April 15,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,,,,,future perfect
+316,I will have finished the report by tomorrow,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,tomorrow,,,,future perfect
+317,I will have finished the report by next week,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,next,week,,,future perfect
+318,I will have finished the report by next month,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,next,month,,,future perfect
+319,I will have finished the report by next year,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,next,year,,,future perfect
+320,It was raining at noon yesterday.,"verb, past tense","verb, gerund or present participle",,,,,noon,yesterday,,,,past progressive
+321,I was not visiting the museum at ten yesterday.,"verb, past tense","verb, gerund or present participle",,,,,yesterday,,,,,past progressive
+322,"At three o’clock yesterday, I was working in the garden.","verb, past tense","verb, gerund or present participle",,,,,yesterday,,,,,past progressive
+323,I was working in the garden all day yesterday.,"verb, past tense","verb, gerund or present participle",,,,,day,yesterday,,,,past progressive
+324,Yesterday at 7 o'clock Judi was washing the dishes.,"verb, past tense","verb, gerund or present participle",,,,,Yesterday,,,,,past progressive
+325,Judi was washing the dishes the entire evening.,"verb, past tense","verb, gerund or present participle",,,,,evening,,,,,past progressive
+326,He was flying all day.,"verb, past tense","verb, gerund or present participle",,,,,day,,,,,past progressive
+327,Yesterday morning the kids were playing.,"verb, past tense","verb, gerund or present participle",,,,,Yesterday,morning,,,,past progressive
+328,Yesterday morning the kids were playing all day long.,"verb, past tense","verb, gerund or present participle",,,,,Yesterday,morning,day,,,past progressive
+329,He was sitting outside for too long.,"verb, past tense","verb, gerund or present participle",,,,,for,,,,,past progressive
+330,Last night at 8 o'clock we were dancing.,"verb, past tense","verb, gerund or present participle",,,,,Last,night,,,,past progressive
+331,He was working at 10 o'clock this morning.,"verb, past tense","verb, gerund or present participle",,,,,this,morning,,,,past progressive
+332,She was always leaving me with all the paperwork.,"verb, past tense","verb, gerund or present participle",,,,,always,,,,,past progressive
+333,SHe was always sleeping on duty.,"verb, past tense","verb, gerund or present participle",,,,,always,,,,,past progressive
+334,He was always sleeping on duty.,"verb, past tense","verb, gerund or present participle",,,,,always,,,,,past progressive
+335,Harold had known about it for a while.,"verb, past tense","verb, past participle",,,,,for,while,,,,past perfect
+336,I had not eaten at that restaurant before today.,"verb, past tense","verb, past participle",,,,,before,today,,,,past perfect
+337,Samantha hadn’t had time to explain her side of the story.,"verb, past tense","verb, past tense","verb, base form",,,,time,,,,,past perfect
+338,My friends hadn’t ever gone to France.,"verb, past tense","verb, past participle",,,,,ever,,,,,past perfect
+339,My friends had never gone to the USA either.,"verb, past tense","verb, past participle",,,,,never,,,,,past perfect
+340,Had you cleaned up the mess by the time they came home?,"verb, past tense","verb, past participle","verb, past tense",,,,by,time,,,,past perfect
+341,Had Adam ever spoken to the CEO before he was fired?,"verb, past tense","verb, past participle","verb, past tense","verb, past participle",,,ever,before,,,,past perfect
+342,What had they said that made him so angry?,"verb, past tense","verb, past tense","verb, past tense",,,,so,,,,,past perfect
+343,Why had he agreed to work for that salary?,"verb, past tense","verb, past tense","verb, base form",,,,for,,,,,past perfect
+344,How much had he drunk before you got to him?,"verb, past tense","verb, past tense",,,,,before,,,,,past perfect
+345,She said she had bought the hat in Paris.,"verb, past tense","verb, past tense","verb, past participle",,,,,,,,,past perfect
+346,They had already scored before the 9 o'clock break.,"verb, past tense","verb, past participle",,,,,already,before,,,,past perfect
+347,He had finished building his house before 1999.,"verb, past tense","verb, past participle","verb, gerund or present participle",,,,before,,,,,past perfect
+348,She had never played basketball before 2002.,"verb, past tense","verb, past participle",,,,,never,before,,,,past perfect
+349,He had liked her before this happened.,"verb, past tense","verb, past participle","verb, past tense",,,,before,this,,,,past perfect
+350,I had studied English for several years before I traveled to the U.S.,"verb, past tense","verb, past participle","verb, past tense",,,,for,years,before,,,past perfect
+351,I hadn’t studied English before I traveled to the U.S.,"verb, past tense","verb, past participle","verb, past tense",,,,before,,,,,past perfect
+352,The meeting had already started by the time I arrived.,"verb, past tense","verb, past participle","verb, past tense",,,,already,by,time,,,past perfect
+353,They were married from 2008-2011.,"verb, past tense","verb, past participle",,,,,,,,,,past perfect
+354,They got divorced in 2011.,"verb, past tense","verb, past participle",,,,,,,,,,past perfect
+355,I saw that she‘d called me twice.,"verb, past tense","verb, past tense",,,,,twice,,,,,past perfect
+356,"By the end of the day, I‘d written two hundred e-mails.","verb, 3rd person singular present","verb, past tense",,,,,By,day,,,,past perfect
+357,I had had five different jobs by the time I was 30 years old.,"verb, past tense","verb, past participle","verb, past tense",,,,by,time,years,,,past perfect
+358,I‘d had five different jobs by the time I was 30 years old.,"verb, past tense","verb, past tense",,,,,by,time,years,,,past perfect
+359,I had had five different jobs by the time I was 30 years old.,"verb, past tense","verb, past participle","verb, past tense",,,,by,time,years,,,past perfect
+360,"When I saw him, I could tell that he had had too much to drink.","verb, past tense","verb, modal auxiliary","verb, base form","verb, past tense","verb, past participle",,"verb, base form",,,,,past perfect
+361,I told my boss that I hadn’t had enough time to finish the project.,"verb, past tense","verb, past tense","verb, past tense","verb, base form",,,time,,,,,past perfect
+362,We had never had an argument until last week.,"verb, past tense","verb, past participle",,,,,never,until,last,week,,past perfect
+363,I had finished all the work by the time you called.,"verb, past tense","verb, past participle","verb, past tense",,,,by,time,,,,past perfect
+364,"When we arrived at the airport, our flight had already left.","verb, past tense","verb, past tense","verb, past participle",,,,When,already,,,,past perfect
+365,"Before we sold our car, we had owned it for 12 years.","verb, past tense","verb, past tense","verb, past participle",,,,Before,for,years,,,past perfect
+366,He had never met a native English speaker until he visited London.,"verb, past tense","verb, past participle","verb, past tense",,,,never,until,,,,past perfect
+367,She said that she had lost her wallet.,"verb, past tense","verb, past tense","verb, past participle",,,,,,,,,past perfect
+368,"Although he had gone for interviews in several big companies, nobody had hired him.","verb, past tense","verb, past participle","verb, past tense","verb, past participle",,,for,,,,,past perfect
+369,Richard had gone out when his wife arrived in the office.,"verb, past tense","verb, past participle","verb, past tense",,,,when,,,,,past perfect
+370,Christine had never been to an opera before last night.,"verb, past tense","verb, past participle",,,,,never,before,last,night,,past perfect
+371,I got stuck in traffic because there had been an accident.,"verb, past tense","verb, past participle","verb, past tense","verb, past participle",,,,,,,,past perfect
+372,I had been to London twice by the time I got a job in New York.,"verb, past tense","verb, past participle","verb, past tense",,,,twice,by,time,,,past perfect
+373,The girls have played tennis at the club since 2005.,"verb, non-3rd person singular present","verb, past participle",,,,,since,,,,,present perfect
+374,I have already made several calls. ,"verb, non-3rd person singular present","verb, past participle",,,,,already,,,,,present perfect
+375,I’ve used those images before.,"verb, base form","verb, past tense",,,,,before,,,,,present perfect
+376,He’s already had the surgery.,"verb, past tense",,,,,,already,,,,,present perfect
+377,We’ve just gotten home.,"verb, base form","verb, past participle",,,,,just,,,,,present perfect
+378,He has sung that song.,"verb, 3rd person singular present","verb, past participle",,,,,,,,,,present perfect
+379,I haven’t eaten at that restaurant in a long time.,"verb, non-3rd person singular present","verb, past participle",,,,,time,,,,,present perfect
+380,Jim hasn’t worked on Fridays since he joined the company.,"verb, 3rd person singular present","verb, past tense","verb, past tense",,,,since,,,,,present perfect
+381,Jim hasn’t worked on Fridays since last June.,"verb, 3rd person singular present","verb, past tense",,,,,since,last,,,,present perfect
+382,Jim hasn’t worked on Fridays since 1990.,"verb, 3rd person singular present","verb, past tense",,,,,since,,,,,present perfect
+383,My friends haven’t ever gone to France.,"verb, non-3rd person singular present","verb, past participle",,,,,ever,,,,,present perfect
+384,I have not forgiven you!,"verb, non-3rd person singular present","verb, past participle",,,,,,,,,,present perfect
+385,Have you ever gone ice skating?,"verb, non-3rd person singular present","verb, past participle","verb, gerund or present participle",,,,ever,,,,,present perfect
+386,Have you ever been in London before?,"verb, non-3rd person singular present","verb, past participle",,,,,ever,before,,,,present perfect
+387,Have you ever been in London?,"verb, non-3rd person singular present","verb, past participle",,,,,ever,,,,,present perfect
+388,Has Jerry presented his ideas to the CEO yet?,"verb, 3rd person singular present","verb, past tense",,,,,yet,,,,,present perfect
+389,Have you married with that girl yet?,"verb, non-3rd person singular present","verb, past participle",,,,,yet,,,,,present perfect
+390,Have you married with that girl?,"verb, non-3rd person singular present","verb, past participle",,,,,,,,,,present perfect
+391,I have never lied to you,"verb, non-3rd person singular present","verb, past participle",,,,,never,,,,,present perfect
+392,Tanya has left the coutry,"verb, 3rd person singular present","verb, past participle",,,,,,,,,,present perfect
+393,How much money have you spent so far?,"verb, non-3rd person singular present","verb, past participle",,,,,so,far,,,,present perfect
+394,John has known her for a couple of years.,"verb, 3rd person singular present","verb, past participle",,,,,for,years,,,,present perfect
+395,John has known her for a couple of years.,"verb, 3rd person singular present","verb, past participle",,,,,for,years,,,,present perfect
+396,Keisha hasn’t spoken to you yet.,"verb, 3rd person singular present","verb, past participle",,,,,yet,,,,,present perfect
+397,Those kids have never played rugby.,"verb, non-3rd person singular present","verb, past participle",,,,,never,,,,,present perfect
+398,Those kids have never played rugby before.,"verb, non-3rd person singular present","verb, past participle","verb, past participle",,,,never,before,,,,present perfect
+399,Dan has worked in that company for 12 years.,"verb, 3rd person singular present","verb, past participle",,,,,for,years,,,,present perfect
+400,Have you heard the news?,"verb, non-3rd person singular present","verb, past participle",,,,,,,,,,present perfect
+401,The boys have never eaten sushi.,"verb, non-3rd person singular present","verb, past participle",,,,,never,,,,,present perfect
+402,The boys have never eaten sushi before.,"verb, non-3rd person singular present","verb, past participle",,,,,never,before,,,,present perfect
+403,Rani has broken her arm.,"verb, 3rd person singular present","verb, past participle",,,,,,,,,,present perfect
+404,I’ve already made several calls.,"verb, base form","verb, past tense",,,,,already,,,,,present perfect
+405,I have lost my dictionary.,"verb, non-3rd person singular present","verb, past participle",,,,,,,,,,present perfect
+406,Mary has fixed my computer.,"verb, 3rd person singular present","verb, past participle",,,,,,,,,,present perfect
+407,You haven't eaten very much.,"verb, non-3rd person singular present","verb, past participle",,,,,,,,,,present perfect
+408,You have not eaten very much.,"verb, non-3rd person singular present","verb, past participle",,,,,,,,,,present perfect
+409,I haven't read his letter. ,"verb, non-3rd person singular present","verb, past participle",,,,,,,,,,present perfect
+410,Have you seen my calculator?,"verb, non-3rd person singular present","verb, past participle",,,,,,,,,,present perfect
+411,Has she had an accident?,"verb, 3rd person singular present","verb, past tense",,,,,,,,,,present perfect
+412,Have you done your homework?,"verb, non-3rd person singular present","verb, past participle",,,,,,,,,,present perfect
+413,I've played tennis 3 times already this week,"verb, base form","verb, past participle",,,,,times,already,this,week,,present perfect
+414,She's been back to Korea twice already this year,"verb, 3rd person singular present","verb, past participle",,,,,twice,already,this,year,,present perfect
+415,"Sorry, I have seen that film already.","verb, non-3rd person singular present","verb, past participle",,,,,already,,,,,present perfect
+416,I've lived in Germany since 1986.,"verb, base form","verb, past participle",,,,,since,,,,,present perfect
+417,She's had a lot of bad luck recently.,"verb, 3rd person singular present","verb, past participle",,,,,recently,,,,,present perfect
+418,I haven't seen my mother for 2 months.,"verb, non-3rd person singular present","verb, past participle",,,,,for,months,,,,present perfect
+419,You haven't finished the exercise yet.,"verb, non-3rd person singular present","verb, past participle",,,,,yet,,,,,present perfect
+420,She hasn't called me lately.,"verb, 3rd person singular present","verb, past participle",,,,,lately,,,,,present perfect
+421,Have you ever seen a ghost?,"verb, non-3rd person singular present","verb, past participle",,,,,ever,,,,,present perfect
+422,Has he lived here all his life?,"verb, 3rd person singular present","verb, past tense",,,,,,,,,,present perfect
+423,Has the postman been yet?,"verb, 3rd person singular present","verb, past participle",,,,,yet,,,,,present perfect
+424,I drank three cups of coffee this morning.,"verb, past tense",,,,,,this,morning,,,,past simple
+425,I didn't see John today.,"verb, past tense","verb, base form",,,,,today,,,,,past simple
+426,This year was a very good year for me!,"verb, past tense",,,,,,This,year,year,for,,past simple
+427,"When I turn thirty, I will have been playing piano for twenty-one years.","verb, non-3rd person singular present","verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle",,When,for,years,,,future perfect progressive
+428,"On Thursday, I will have known you for a week.","verb, modal auxiliary","verb, base form","verb, past participle",,,,for,week,,,,future perfect progressive
+429,I will have read forty-five books by Christmas.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,,,,,future perfect progressive
+430,"By the next year, I will have been working as a teacher for 30 years.","verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle",,,By,next,year,as,for,future perfect progressive
+431,We will be making a rest stop in half an hour because you will have been driving the car for 6 hours by then.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle","verb, modal auxiliary","verb, base form",,for,by,,,,future perfect progressive
+432,The company will have been negotiating the contract for three months by June.,"verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle",,,for,months,by,,,future perfect progressive
+433,"Before they come, we will have been cleaning the house for 5 hours.","verb, non-3rd person singular present","verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle",,Before,for,,,,future perfect progressive
+434,We will have been cleaning the house for 5 hours.,"verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle",,,for,,,,,future perfect progressive
+435,"By the next year, Ben and his wife will have been living together for 50 years.","verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle",,,By,next,year,for,years,future perfect progressive
+436,Ben and his wife will have been living together for 50 years.,"verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle",,,for,years,,,,future perfect progressive
+437,The company will have been negotiating the the contract for two months by June.,"verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle",,,for,months,by,,,future perfect progressive
+438,"By this time, he will have been working for 12 hours.","verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle",,,By,this,time,for,,future perfect progressive
+439,He will have been exercising for over 2 hours.,"verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle",,,for,,,,,future perfect progressive
+440,In the summer Mike will have been trying to find a new job for five months.,"verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle","verb, base form",,for,months,,,,future perfect progressive
+441,"Jane will be very tired when she comes home, because she will have been flying over 24 hours.","verb, modal auxiliary","verb, base form","verb, 3rd person singular present","verb, modal auxiliary","verb, base form",,"verb, past participle","verb, gerund or present participle",,,,future perfect progressive
+442,My father and I will have been breeding sheep for 20 years tomorrow.,"verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle",,,for,years,tomorrow,,,future perfect progressive
+443,"By the year 2020, linguists will have been studying and defining the Indo-European language family for more than 200 years.","verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle","verb, gerund or present participle",,By,year,for,years,,future perfect progressive
+444,She won't have been writing the book for four months by the end of October.,"verb, base form","verb, past participle","verb, gerund or present participle",,,,for,months,by,,,future perfect progressive
+445,Will he have been writing the composition for a month by the end of February?,"verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle",,,for,month,by,,,future perfect progressive
+446,You will have been waiting for more than two hours when her plane finally arrives.,"verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle","verb, 3rd person singular present",,for,when,,,,future perfect progressive
+447,They will have been talking for over an hour by the time Thomas arrives.,"verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle","verb, 3rd person singular present",,for,by,time,,,future perfect progressive
+448,How long will you have been studying when you graduate?,"verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle","verb, non-3rd person singular present",,when,,,,,future perfect progressive
+449,Ned will have had his driver's license for over two years.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,for,years,,,,future perfect progressive
+450,You will only have been waiting for a few minutes when her plane arrives.,"verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle","verb, 3rd person singular present",,for,few,when,,,future perfect progressive
+451,You are only going to have been waiting for a few minutes when her plane arrives.,"verb, non-3rd person singular present","verb, gerund or present participle","verb, base form","verb, past participle","verb, gerund or present participle","verb, 3rd person singular present",for,few,when,,,future perfect progressive
+452,Jason will be tired when he gets home because he will have been jogging for over an hour.,"verb, modal auxiliary","verb, base form","verb, 3rd person singular present","verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle",for,,,,future perfect progressive
+453,She is going to have been working at that company for three years when it finally closes.,"verb, 3rd person singular present","verb, gerund or present participle","verb, base form","verb, past participle","verb, gerund or present participle","verb, 3rd person singular present",for,years,when,,,future perfect progressive
+454,James will have been teaching at the university for more than a year by the time he leaves for Asia.,"verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle","verb, 3rd person singular present",,for,year,by,time,for,future perfect progressive
+455,You are going to have been waiting for more than two hours when her plane finally arrives.,"verb, non-3rd person singular present","verb, gerund or present participle","verb, base form","verb, past participle","verb, gerund or present participle","verb, 3rd person singular present",for,when,,,,future perfect progressive
+456,"At five o’clock, I will be meeting with the management about my raise.","verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,,,,,,future progressive
+457,Michael will be running a marathon this Saturday.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,this,,,,,future progressive
+458,Eric will be competing against Michael in the race.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,,,,,,future progressive
+459,I will be watching Michael and Eric race.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,,,,,,future progressive
+460,I will be working tonight.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,tonight,,,,,future progressive
+461,She will be playing at the theather this evening.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,this,evening,,,,future progressive
+462,She will be playing at the theather.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,,,,,,future progressive
+463,I will be working.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,,,,,,future progressive
+464,This time tomorrow I will be lying on the beach.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,This,time,tomorrow,,,future progressive
+465,This time tomorrow I will be celebrating my birthday.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,This,time,tomorrow,,,future progressive
+466,This time next week I will be taking my exam.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,This,time,next,week,,future progressive
+467,This time tomorrow I will be waiting at the doctor’s office.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,This,time,tomorrow,,,future progressive
+468,She will be giving a presentation at 4 o’clock in the afternoon.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,afternoon,,,,,future progressive
+469,Tomorrow at 8 o'clock James will be cleaning the house.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,Tomorrow,,,,,future progressive
+470,James will be cleaning the house all morning.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,morning,,,,,future progressive
+471,I will be studying all weekend,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,weekend,,,,,future progressive
+472,James will be cleaning the house when I arrive.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle","verb, non-3rd person singular present",,,when,,,,,future progressive
+473,She will be singing all night.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,night,,,,,future progressive
+474,We will be doing business next year.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,next,year,,,,future progressive
+475,He will be driving for a while.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,for,while,,,,future progressive
+476,An hour from now he will be lying in a hospital.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,now,,,,,future progressive
+477,At ten o'clock tonight she will be meeting her boyfriend.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,,tonight,,,,,future progressive
+478,He will be shouting until he gets tired.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle","verb, 3rd person singular present",,,until,,,,,future progressive
+479,"When he comes, she will be waiting.","verb, 3rd person singular present","verb, modal auxiliary","verb, base form","verb, gerund or present participle",,,When,,,,,future progressive
+480,She will be walking confidently when she returns.,"verb, modal auxiliary","verb, base form","verb, gerund or present participle","verb, 3rd person singular present",,,when,,,,,future progressive
+481,"Janet will be talking, and Emily will be listening to every word.","verb, modal auxiliary","verb, base form","verb, gerund or present participle","verb, modal auxiliary","verb, base form","verb, gerund or present participle",every,,,,,future progressive
+482,You had been waiting there for more than two hours when she finally arrived.,"verb, past tense","verb, past participle","verb, gerund or present participle","verb, past tense",,,for,when,,,,past perfect progressive
+483,You had not been waiting there for more than two hours when she finally arrived.,"verb, past tense","verb, past participle","verb, gerund or present participle","verb, past tense",,,for,when,,,,past perfect progressive
+484,They had been talking for over an hour before Tony arrived.,"verb, past tense","verb, past participle","verb, gerund or present participle","verb, past tense",,,for,before,,,,past perfect progressive
+485,She had been working at that company for three years when it went out of business.,"verb, past tense","verb, past participle","verb, gerund or present participle","verb, past tense",,,for,years,when,,,past perfect progressive
+486,How long had you been waiting to get on the bus?,"verb, past tense","verb, past participle","verb, gerund or present participle","verb, base form",,,,,,,,past perfect progressive
+487,Mike wanted to sit down because he had been standing all day at work.,"verb, past tense","verb, base form","verb, past tense","verb, past participle","verb, gerund or present participle",,day,,,,,past perfect progressive
+488,How long had you been studying Turkish before you moved to Ankara?,"verb, past tense","verb, past participle","verb, gerund or present participle","verb, past tense",,,before,,,,,past perfect progressive
+489,I had not been studying Turkish very long.,"verb, past tense","verb, past participle","verb, gerund or present participle",,,,,,,,,past perfect progressive
+490,Jason was tired because he had been jogging.,"verb, past tense","verb, past tense","verb, past participle","verb, gerund or present participle",,,,,,,,past perfect progressive
+491,Sam gained weight because he had been overeating.,"verb, past tense","verb, past tense","verb, past participle","verb, gerund or present participle",,,,,,,,past perfect progressive
+492,Betty failed the final test because she had not been attending class.,"verb, past tense","verb, past tense","verb, past participle","verb, gerund or present participle",,,,,,,,past perfect progressive
+493,Chef Jones had been preparing the restaurant's fantastic dinners for two years before he moved to Paris. ,"verb, past tense","verb, past participle","verb, gerund or present participle","verb, past tense",,,for,years,before,,,past perfect progressive
+494,Chef Jones had been preparing the restaurant's fantastic dinners for two years. ,"verb, past tense","verb, past participle","verb, gerund or present participle",,,,for,years,,,,past perfect progressive
+495,The motorcycle had belonged to George for years before Tina bought it.,"verb, past tense","verb, past participle","verb, past tense",,,,for,years,before,,,past perfect progressive
+496,The motorcycle had belonged to George for years.,"verb, past tense","verb, past participle",,,,,for,years,,,,past perfect progressive
+497,Ben had been working for three hours when Rachel came home.,"verb, past tense","verb, past participle","verb, gerund or present participle","verb, past tense",,,for,when,,,,past perfect progressive
+498,Ben had been working for three hours.,"verb, past tense","verb, past participle","verb, gerund or present participle",,,,for,,,,,past perfect progressive
+499,"By the time Sam found an umbrella, it had been raining for ten minutes.","verb, past tense","verb, past tense","verb, past participle","verb, gerund or present participle",,,By,time,for,,,past perfect progressive
+500,it had been raining for ten minutes.,"verb, past tense","verb, past participle","verb, gerund or present participle",,,,for,,,,,past perfect progressive
+501,"By the time Catherine got to the office, the client had been waiting for an hour.","verb, past tense","verb, past tense","verb, past participle","verb, gerund or present participle",,,By,time,for,,,past perfect progressive
+502,The client had been waiting for an hour.,"verb, past tense","verb, past participle","verb, gerund or present participle",,,,for,,,,,past perfect progressive
+503,I had been feeding the dogs when I tripped and fell.,"verb, past tense","verb, past participle","verb, gerund or present participle","verb, past tense","verb, past tense",,when,,,,,past perfect progressive
+504,"He hadn’t been feeling well, so I sent him away.","verb, past tense","verb, past participle","verb, gerund or present participle","verb, past tense",,,so,,,,,past perfect progressive
+505,He hadn’t been feeling well.,"verb, past tense","verb, past participle","verb, gerund or present participle",,,,,,,,,past perfect progressive
+506,Simon had not been expecting a positive answer when he got a job.,"verb, past tense","verb, past participle","verb, gerund or present participle","verb, past tense",,,when,,,,,past perfect progressive
+507,Simon had not been expecting a positive answer.,"verb, past tense","verb, past participle","verb, gerund or present participle",,,,,,,,,past perfect progressive
+508,The hikers hadn’t been walking long before they got lost.,"verb, past tense","verb, past participle","verb, gerund or present participle","verb, past tense","verb, past participle",,before,,,,,past perfect progressive
+509,Mrs Smith has been picking strawberries for two hours.,"verb, 3rd person singular present","verb, past participle","verb, gerund or present participle",,,,for,,,,,present perfect progressive
+510,He has been playing Rugby with is friends.,"verb, 3rd person singular present","verb, past participle","verb, gerund or present participle","verb, 3rd person singular present",,,,,,,,present perfect progressive
+511,He has been playing Rugby with is friends all day long.,"verb, 3rd person singular present","verb, past participle","verb, gerund or present participle","verb, 3rd person singular present",,,day,,,,,present perfect progressive
+512,John has been feeling sick all afternoon.,"verb, 3rd person singular present","verb, past participle","verb, gerund or present participle",,,,afternoon,,,,,present perfect progressive
+513,John has been feeling sick all weekend.,"verb, 3rd person singular present","verb, past participle","verb, gerund or present participle",,,,weekend,,,,,present perfect progressive
+514,She has been working with us for ten years.,"verb, 3rd person singular present","verb, past participle","verb, gerund or present participle",,,,for,years,,,,present perfect progressive
+515,She has been studying to become a lawyer for five years.,"verb, 3rd person singular present","verb, past participle","verb, gerund or present participle","verb, base form",,,for,years,,,,present perfect progressive
+516,They have been living here since 1999.,"verb, non-3rd person singular present","verb, past participle","verb, gerund or present participle",,,,since,,,,,present perfect progressive
+517,I have not talked to Simon since last Monday.,"verb, non-3rd person singular present","verb, past participle",,,,,since,last,,,,present perfect progressive
+518,We have known Mr and Mrs Bean for twenty years.,"verb, non-3rd person singular present","verb, past participle",,,,,for,years,,,,present perfect progressive
+519,I have not seen Chloe for a long time.,"verb, non-3rd person singular present","verb, past participle",,,,,for,time,,,,present perfect progressive
+520,Mr and Mrs Bean have been married since August last year.,"verb, non-3rd person singular present","verb, past participle","verb, past participle",,,,since,last,year,,,present perfect progressive
+521,I have not talked to Simon since last Monday.,"verb, non-3rd person singular present","verb, past participle",,,,,since,last,,,,present perfect progressive
+522,He has been going out a lot lately with is friends.,"verb, 3rd person singular present","verb, past participle","verb, gerund or present participle","verb, 3rd person singular present",,,lately,,,,,present perfect progressive
+523,Sarah has been going out a lot recently with her new boyfriend.,"verb, 3rd person singular present","verb, past participle","verb, gerund or present participle",,,,recently,,,,,present perfect progressive
+524,"Since we moved to Manchester, we have been much happier.","verb, past tense","verb, non-3rd person singular present","verb, past participle",,,,Since,,,,,present perfect progressive
+525,Have you been waiting for a long time?,"verb, non-3rd person singular present","verb, past participle","verb, gerund or present participle",,,,for,time,,,,present perfect progressive
+526,You are late! We have sat here waiting for you for you since one o'clock.,"verb, non-3rd person singular present","verb, non-3rd person singular present","verb, past participle","verb, gerund or present participle",,,for,for,since,,,present perfect progressive
+527,Mr Smith hasn't bought a new car for ten years.,"verb, 3rd person singular present","verb, past participle",,,,,for,years,,,,present perfect progressive
+528,Mrs Jones has been on the telephone for many hours!,"verb, 3rd person singular present","verb, past participle",,,,,for,,,,,present perfect progressive
+529,I have known Mr Bean since 1999 he is my best friend.,"verb, non-3rd person singular present","verb, past participle","verb, 3rd person singular present",,,,since,,,,,present perfect progressive
+530,Mr Bean has been my best friend for many years.,"verb, 3rd person singular present","verb, past participle",,,,,for,years,,,,present perfect progressive
+531,John has lived in this City since he was born.,"verb, 3rd person singular present","verb, past participle","verb, past tense","verb, past participle",,,this,since,,,,present perfect progressive
+532,It has been snowing for hours.,"verb, 3rd person singular present","verb, past participle","verb, gerund or present participle",,,,for,,,,,present perfect progressive
+533,My mother has been the working at this firm for twenty years.,"verb, 3rd person singular present","verb, past participle","verb, gerund or present participle",,,,this,for,years,,,present perfect progressive
+534,The football player will have signed the contract by the beginning of July.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,,,,,future perfect
+535,"Before they come, we will have cleaned up the house.","verb, non-3rd person singular present","verb, modal auxiliary","verb, base form","verb, past participle",,,Before,,,,,future perfect
+536,"John will have eaten the whole cake, by the time the birthday party starts!","verb, modal auxiliary","verb, base form","verb, past participle","verb, 3rd person singular present",,,by,time,,,,future perfect
+537,I will have been in Denver for exactly forty years by 2012.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,for,years,by,,,future perfect
+538,Jane will have worked as a doctor for fifteen years by the end of this month.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,as,for,years,by,this,future perfect
+539,"By the next year, I will have known Monica for 30 years.","verb, modal auxiliary","verb, base form","verb, past participle",,,,By,next,year,for,years,future perfect
+540,The train will have left by now.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,now,,,,future perfect
+541,The guests will have arrived at the hotel by now. ,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,now,,,,future perfect
+542,"The plane will have taken off by now, so don’t rush to the airport.","verb, modal auxiliary","verb, base form","verb, past participle","verb, base form",,,by,now,so,,,future perfect
+543,She will not have finished.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,,,,,,future perfect
+544,I will have retired by the end of this year.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,this,year,,,future perfect
+545,"If I keep up the pace, I will have read the book by Tuesday.","verb, non-3rd person singular present","verb, modal auxiliary","verb, base form","verb, past participle",,,by,,,,,future perfect
+546,My uncle won't have retired by the end of the year.,"verb, base form","verb, past participle",,,,,by,year,,,,future perfect
+547,MThey won't have graduated from from Cambridge by July 2009.,"verb, base form","verb, past participle",,,,,by,,,,,future perfect
+548,"If all goes well, by June 2012, I will have finished my university degree.","verb, 3rd person singular present","verb, modal auxiliary","verb, base form","verb, past participle",,,by,,,,,future perfect
+549,Will she have gotten her passport by then?,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,,,,,future perfect
+550,Won’t you have sent the documents by Thursday?,"verb, non-3rd person singular present","verb, past participle",,,,,by,,,,,future perfect
+551,"By the time you get here, we will have been building the house for a year.","verb, non-3rd person singular present","verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle",,By,time,for,year,,future perfect
+552,"By 2008, Adam will have been selling sports equipment for 10 years.","verb, modal auxiliary","verb, base form","verb, past participle","verb, gerund or present participle",,,By,for,years,,,future perfect
+553,He was writing an e-mail when the phone rang.,"verb, past tense","verb, gerund or present participle","verb, past tense",,,,when,,,,,past progressive
+554,I was preparing dinner while Melanie was working upstairs.,"verb, past tense","verb, gerund or present participle","verb, past tense","verb, gerund or present participle",,,while,,,,,past progressive
+555,I wasn’t sleeping when you came home last night.,"verb, past tense","verb, gerund or present participle","verb, past tense",,,,when,last,night,,,past progressive
+556,"When Ms. Foster came in, the girls weren’t studying.","verb, past tense","verb, past tense","verb, gerund or present participle",,,,When,,,,,past progressive
+557,Sam wasn’t lying when he said he loved you.,"verb, past tense","verb, gerund or present participle","verb, past tense","verb, past tense",,,when,,,,,past progressive
+558,Was I talking to you?,"verb, past tense","verb, gerund or present participle",,,,,,,,,,past progressive
+559,Were you writing the report when the electricity went off?,"verb, past tense","verb, gerund or present participle","verb, past tense",,,,when,,,,,past progressive
+560,"When you came home, was he singing in the shower?","verb, past tense","verb, past tense","verb, gerund or present participle",,,,When,,,,,past progressive
+561,Wasn’t Tom sitting in the cafe when you drove past?,"verb, past tense","verb, gerund or present participle","verb, past tense",,,,when,past,,,,past progressive
+562,I was watching TV when she called.,"verb, past tense","verb, gerund or present participle","verb, past tense",,,,when,,,,,past progressive
+563,"When the phone rang, she was writing a letter.","verb, past tense","verb, gerund or present participle",,,,,When,,,,,past progressive
+564,"While John was sleeping last night, someone stole his car.","verb, past tense","verb, gerund or present participle","verb, past tense",,,,While,last,night,,,past progressive
+565,"While we were having the picnic, it started to rain.","verb, past tense","verb, gerund or present participle","verb, past tense","verb, base form",,,While,,,,,past progressive
+566,"While I was writing the email, the computer suddenly went off.","verb, past tense","verb, gerund or present participle","verb, past tense",,,,While,,,,,past progressive
+567,"Last night at 6 PM, I was eating dinner.","verb, past tense","verb, gerund or present participle",,,,,Last,night,,,,past progressive
+568,"At midnight, we were still driving through the desert.","verb, past tense","verb, gerund or present participle",,,,,,,,,,past progressive
+569,"Yesterday at this time, I was sitting at my desk at work. ","verb, past tense","verb, gerund or present participle",,,,,Yesterday,this,time,,,past progressive
+570,She was always coming to class late.,"verb, past tense","verb, gerund or present participle",,,,,always,,,,,past progressive
+571,He was constantly talking. ,"verb, past tense","verb, gerund or present participle",,,,,constantly,,,,,past progressive
+572,I didn't like them because they were always complaining.,"verb, past tense","verb, base form","verb, past tense","verb, gerund or present participle",,,always,,,,,past progressive
+573,I was studying when she called.,"verb, past tense","verb, gerund or present participle","verb, past tense",,,,when,,,,,past progressive
+574,"While I was studying, she called.","verb, past tense","verb, gerund or present participle","verb, past tense",,,,While,,,,,past progressive
+575,My breakfast will have been ready.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,,,,,,future perfect
+576,Margaret will have married Jerome by then.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,,,,,future perfect
+577,The storm will have raged by the time we arrive.,"verb, modal auxiliary","verb, base form","verb, past participle","verb, non-3rd person singular present",,,by,time,,,,future perfect
+578,Mom will have cooked our favorite meal.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,,,,,,future perfect
+579,I will have slept eight hours.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,,,,,,future perfect
+580,The plant will have grown by then.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,,,,,future perfect
+581,Henry will have ran by ten o'clock. ,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,,,,,future perfect
+582,Will you have married Jerome by then? ,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,,,,,future perfect
+583,Will Mom have cooked our favorite meal? ,"verb, non-3rd person singular present","verb, past participle",,,,,,,,,,future perfect
+584,Will the plant have grown by then?,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,,,,,future perfect
+585,I will not have eaten by then.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,,,,,future perfect
+586,Henry will not have ran by ten o'clock. ,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,,,,,future perfect
+587,Jenny will not have saved enough money yet.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,yet,,,,,future perfect
+588,I will have finished this book.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,this,,,,,future perfect
+589,You will have studied the English tenses.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,,,,,,future perfect
+590,She will have cooked dinner.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,,,,,,future perfect
+591,He will have completed his project by Saturday.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,,,,,future perfect
+592,"By the time he graduates, he will have completed five years of study.","verb, 3rd person singular present","verb, modal auxiliary","verb, base form","verb, past participle",,,By,time,years,,,future perfect
+593,The snow will have stopped by April.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,,,,,future perfect
+594,We will have returned home by five o'clock.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,,,,,future perfect
+595,"By tomorrow, their life will have changed completely.","verb, modal auxiliary","verb, base form","verb, past participle",,,,By,tomorrow,,,,future perfect
+596,"So by the time we get back, we will have rested and relaxed.","verb, non-3rd person singular present","verb, modal auxiliary","verb, base form","verb, past participle",,,So,by,time,,,future perfect
+597,Her heel will have fully healed by the summer.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,by,,,,,future perfect
+598,"By next month, you will have received your promotion.","verb, modal auxiliary","verb, base form","verb, past participle",,,,By,next,month,,,future perfect
+599,"By the time he wakes up, we will have prepared lunch for everyone.","verb, 3rd person singular present","verb, modal auxiliary","verb, base form","verb, past participle",,,By,time,for,,,future perfect
+600,Next Monday we will have been married for ten years.,"verb, modal auxiliary","verb, base form","verb, past participle","verb, past participle",,,Next,for,years,,,future perfect
+601,Tomorrow Justin will have been single for a whole week.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,Tomorrow,for,week,,,future perfect
+602,In September I will have lived here for eight years.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,for,years,,,,future perfect
+603,Luke will have been sick for two weeks tomorrow.,"verb, modal auxiliary","verb, base form","verb, past participle",,,,for,weeks,tomorrow,,,future perfect
+604,Next week you will have had this car for twenty five years!,"verb, modal auxiliary","verb, base form","verb, past participle",NaN,NaN,NaN,Next,week,this,for,years,future perfect
