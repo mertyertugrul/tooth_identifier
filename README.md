@@ -1,5 +1,7 @@
 # Tooth Identifier
 
+[This project is hosted on AWS](http://src-20191210173252-hostingbucket-aws.s3-website-eu-west-1.amazonaws.com/)
+
 *Classification of Books into Difficulty Levels*
 
 * Linguistically Analyse Text Files
